@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "796227075117",
+    "project_id": "estore-9fe61",
+    "storage_bucket": "estore-9fe61.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:796227075117:android:ba0e2cc39192b968474ca4",
+        "android_client_info": {
+          "package_name": "com.app.estore"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "796227075117-pauj96tlap9vcgg3cpbplep7efe6o7nh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDRkIBF5J9pnKqzHQUZhOyPZbV6Befq3KU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "796227075117-pauj96tlap9vcgg3cpbplep7efe6o7nh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
